@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Sky\'s Blog',
-  author: 'Sky',
+  title: '全国动态VPN、动态PPTP代理、路由器动态换IP、模拟器换IP软件 - 薪火IP',
+  author: '薪火IP',
   email: 'i@0728.im',
   link: 'https://0728.im',
   description: 'This gonna be an awesome website.',
